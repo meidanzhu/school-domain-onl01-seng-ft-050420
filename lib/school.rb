@@ -25,7 +25,7 @@ class School
     end
   end
 end
- 
+
 school = School.new
 school.add_student("Zach Morris", 9)
 school.roster
